@@ -2,6 +2,9 @@
 markdown:         kramdown
 highlighter:      rouge
 
+# encoding
+encoding: utf-8
+
 # Permalinks
 permalink:        pretty
 relative_permalinks: true
@@ -22,4 +25,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           
